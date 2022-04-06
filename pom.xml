@@ -10,4 +10,5 @@
         <maven.compiler.target>18</maven.compiler.target>
         <exec.mainClass>com.mycompany.g4s21eduardo4295e10.G4s21Eduardo4295e10</exec.mainClass>
     </properties>
+    <name>G4s21jennifer4295e10</name>
 </project>

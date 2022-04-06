@@ -9,7 +9,7 @@ package com.mycompany.g4s21eduardo4295e10;
  *
  * @author eg993
  */
-public class G4s21Eduardo4295e10 {
+public class G4s21jennifer4295e10 {
 
     public static void main(String[] args) {
        new FrmPrincipal().setVisible(true);
